@@ -32,12 +32,8 @@ score = my_test.judge() # Runs the test and return a rich score containing test 
 Community participation is encouraged!
 
 ## Documentation
-### Jupyter Tutorials
-[Chapter 1](https://github.com/scidash/sciunit/blob/master/docs/chapter1.ipynb) / 
-[Chapter 2](https://github.com/scidash/sciunit/blob/master/docs/chapter2.ipynb) /
-[Chapter 3](https://github.com/scidash/sciunit/blob/master/docs/chapter3.ipynb) /
+[Jupyter Tutorials](https://scidash.org/sciunit/README.html)
 
-### Developer Reference
 [API Documentation](http://sciunit.rtfd.io)
 
 ### Reproducible Research ID
